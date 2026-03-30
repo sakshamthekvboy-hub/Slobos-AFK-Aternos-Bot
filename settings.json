@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "DO NOT TOUCH ME",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "DO NOT TOUCH ME",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "MotherEarth.aternos.me:64161",
+    "port": 64161,
     "version": "",
     "try-creative": false
   },
